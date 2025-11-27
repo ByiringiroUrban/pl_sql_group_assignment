@@ -237,10 +237,17 @@ Implements a PL/SQL package for hospital management that efficiently handles pat
 
 ---
 
-##  Screenshoot images
-C:\Users\urban\OneDrive\Desktop\pl_sql_exercises\image.png
-C:\Users\urban\OneDrive\Desktop\pl_sql_exercises\image1.png
-C:\Users\urban\OneDrive\Desktop\pl_sql_exercises\image2.png
+## 📸 Screenshot Images
+
+### Question 3 - Security Login Monitoring System
+
+![Question 3 Screenshot 1](image.png)
+
+![Question 3 Screenshot 2](image1.png)
+
+### Question 4 - Hospital Management Package
+
+![Question 4 Screenshot](image2.png)
 
 ## 🔧 Key PL/SQL Concepts Demonstrated
 
